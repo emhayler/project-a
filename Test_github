@@ -1,3 +1,7 @@
-<p> This is a test for Github repository uploads </p>
-<h1> HI </h1>
-<p> testing changes and commits on github </p>
+<!DOCTYPE html>
+  <head>
+    <title> First Test </title>
+
+  <body>
+    <h1> Github sync </h1>
+      <p> This is a test for Github repository uploads </p>
